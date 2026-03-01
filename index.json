@@ -3339,7 +3339,7 @@
     {
       "name": "ra2_eva_commander",
       "display_name": "RA2 EVA Commander",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Red Alert 2 Allied EVA commander voice lines mixed with Tanya responses.",
       "author": {
         "name": "zenvor",
@@ -3361,9 +3361,9 @@
       "sound_count": 23,
       "total_size_bytes": 1369358,
       "source_repo": "zenvor/openpeon-ra2-eva-commander",
-      "source_ref": "v1.0.0",
+      "source_ref": "v1.0.1",
       "source_path": ".",
-      "manifest_sha256": "c8a6efbc7b01525c6795589175711c1d6edddb781d278e5e9d8109ba2f42da04",
+      "manifest_sha256": "e219c745cb3e5704d39e075b24dee48b4a87f4e49947ee8bb4b6b9b6435f8bf2",
       "tags": [
         "gaming",
         "red-alert",

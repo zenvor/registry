@@ -144,6 +144,12 @@
           "type": "string",
           "format": "date",
           "description": "Date the registry entry was last updated"
+        },
+        "quality": {
+          "type": "string",
+          "enum": ["gold", "silver", "flagged", "unreviewed"],
+          "default": "unreviewed",
+          "description": "Quality tier from automated audio checks. 'flagged' packs have blocking issues and may be hidden by default."
         }
       },
       "additionalProperties": false

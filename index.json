@@ -2419,6 +2419,47 @@
       "quality": "flagged"
     },
     {
+      "name": "djkhaled",
+      "display_name": "DJ Khaled",
+      "version": "1.0.0",
+      "description": "DJ Khaled catchphrases as coding notification sounds — Another one! We the best! Major key alert!",
+      "author": {
+        "name": "Mevin Mathew",
+        "github": "mevinmathew23"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 19,
+      "total_size_bytes": 487143,
+      "source_repo": "mevinmathew23/openpeon-djkhaled",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "7c074c18ab628712672972141d4f7c7e58f7ae7c036133d71c8787eea2e8fb38",
+      "tags": [
+        "music",
+        "hiphop",
+        "character",
+        "catchphrase"
+      ],
+      "preview_sounds": [
+        "sounds/AnotherOne.mp3",
+        "sounds/MajorKeyAlert.mp3",
+        "sounds/WeTheBest.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
       "name": "djt",
       "display_name": "Donald J. Trump",
       "version": "1.0.0",
@@ -2812,7 +2853,11 @@
         "solaire",
         "character"
       ],
-      "preview_sounds": ["SolaireChoiceIsYours.mp3", "SolaireHelloStillHere.mp3", "SolaireProposition.mp3"],
+      "preview_sounds": [
+        "SolaireChoiceIsYours.mp3",
+        "SolaireHelloStillHere.mp3",
+        "SolaireProposition.mp3"
+      ],
       "added": "2026-03-23",
       "updated": "2026-03-24"
     },

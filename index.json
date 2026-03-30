@@ -284,6 +284,48 @@
       "updated": "2026-02-26"
     },
     {
+      "name": "ana",
+      "display_name": "Overwatch - Ana",
+      "version": "1.0.0",
+      "description": "Ana voice lines from Overwatch -- the veteran sniper and founding Overwatch member",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 479424,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "ana",
+      "manifest_sha256": "fc73abb72062e6a3e1acefec70a082603584018081d6ade16f4763b8fc8ea03a",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
       "name": "anchorman_brick",
       "display_name": "Brick Tamland",
       "version": "1.0.0",
@@ -806,6 +848,132 @@
       "updated": "2026-02-22"
     },
     {
+      "name": "ashe",
+      "display_name": "Overwatch - Ashe",
+      "version": "1.0.0",
+      "description": "Ashe voice lines from Overwatch -- the rebellious leader of the Deadlock Gang",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 438336,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "ashe",
+      "manifest_sha256": "0f9d29d6976eb75a820a194e3304bb7f7f42147d9737b4208416da28c5ae8fbb",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
+      "name": "baptiste",
+      "display_name": "Overwatch - Baptiste",
+      "version": "1.0.0",
+      "description": "Baptiste voice lines from Overwatch -- the combat medic who fights for a better world",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 414336,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "baptiste",
+      "manifest_sha256": "9f88148ab039d305c952228b3d47846460ec8e7f2ad318ce47f5c3ddaf7626bd",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
+      "name": "bastion",
+      "display_name": "Overwatch - Bastion",
+      "version": "1.0.0",
+      "description": "Bastion voice lines from Overwatch -- the curious combat automaton turned pacifist",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 765234,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "bastion",
+      "manifest_sha256": "90350c68555758c2131d5814128194eed577300cf9e4a15a54140a5faa4e92f9",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
       "name": "blues_brothers",
       "display_name": "Blues Brothers",
       "version": "1.0.0",
@@ -1057,6 +1225,48 @@
       "updated": "2026-02-12"
     },
     {
+      "name": "brigitte",
+      "display_name": "Overwatch - Brigitte",
+      "version": "1.0.0",
+      "description": "Brigitte voice lines from Overwatch -- the shield maiden and squire of Reinhardt",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 398784,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "brigitte",
+      "manifest_sha256": "4848531e5dae7a78bbf9212588e5fba8fd5692f9083adf2c34207cf038425119",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
       "name": "caliph",
       "display_name": "The Caliph (Stronghold Crusader)",
       "version": "1.2.1",
@@ -1095,6 +1305,48 @@
       ],
       "added": "2026-03-01",
       "updated": "2026-03-03"
+    },
+    {
+      "name": "cassidy",
+      "display_name": "Overwatch - Cassidy",
+      "version": "1.0.0",
+      "description": "Cassidy voice lines from Overwatch -- the gunslinging outlaw turned peacekeeper",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 467520,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "cassidy",
+      "manifest_sha256": "9518b18d5f2380ff9ebcaf587df60ff0110ff95963ed6aeda6d724df6124f7d8",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
     },
     {
       "name": "cc_commando",
@@ -1693,690 +1945,6 @@
       "updated": "2026-03-11"
     },
     {
-      "name": "demon-slayer-akaza",
-      "display_name": "Demon Slayer - Akaza",
-      "version": "1.0.0",
-      "description": "Akaza (Upper Moon 3) voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
-      "author": {
-        "name": "dunzkoi",
-        "github": "dunzkoi"
-      },
-      "trust_tier": "community",
-      "categories": [
-        "session.start",
-        "task.acknowledge",
-        "task.complete",
-        "task.error",
-        "input.required",
-        "resource.limit"
-      ],
-      "language": "ja",
-      "license": "fan-community",
-      "sound_count": 10,
-      "total_size_bytes": 741331,
-      "source_repo": "dunzkoi/openpeon-demon-slayer",
-      "source_ref": "v1.0.0",
-      "source_path": "akaza",
-      "manifest_sha256": "6c26201d8cc69678492f636ce95de940b612767eda35f3cdf76553e6b578c071",
-      "tags": [
-        "anime",
-        "demon-slayer",
-        "japanese"
-      ],
-      "preview_sounds": [
-        "akaza-donooo.mp3",
-        "akaza-voice-pt-1.mp3"
-      ],
-      "added": "2026-03-22",
-      "updated": "2026-03-22"
-    },
-    {
-      "name": "demon-slayer-doma",
-      "display_name": "Demon Slayer - Doma",
-      "version": "1.0.0",
-      "description": "Doma (Upper Moon Two) voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
-      "author": {
-        "name": "dunzkoi",
-        "github": "dunzkoi"
-      },
-      "trust_tier": "community",
-      "categories": [
-        "session.start",
-        "task.acknowledge",
-        "task.complete",
-        "task.error",
-        "input.required",
-        "resource.limit"
-      ],
-      "language": "ja",
-      "license": "fan-community",
-      "sound_count": 9,
-      "total_size_bytes": 823419,
-      "source_repo": "dunzkoi/openpeon-demon-slayer",
-      "source_ref": "v1.0.0",
-      "source_path": "doma",
-      "manifest_sha256": "5521c4277344cfc7781cefd12ab7fee009623a576c42291abdbd09ecbc174f32",
-      "tags": [
-        "anime",
-        "demon-slayer",
-        "japanese"
-      ],
-      "preview_sounds": [
-        "doma-03.mp3",
-        "doma-04.mp3"
-      ],
-      "added": "2026-03-22",
-      "updated": "2026-03-22"
-    },
-    {
-      "name": "demon-slayer-enmu",
-      "display_name": "Demon Slayer - Enmu",
-      "version": "1.0.0",
-      "description": "Enmu (Lower Moon One) voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
-      "author": {
-        "name": "dunzkoi",
-        "github": "dunzkoi"
-      },
-      "trust_tier": "community",
-      "categories": [
-        "session.start",
-        "task.acknowledge",
-        "task.complete",
-        "task.error",
-        "input.required",
-        "resource.limit"
-      ],
-      "language": "ja",
-      "license": "fan-community",
-      "sound_count": 8,
-      "total_size_bytes": 447983,
-      "source_repo": "dunzkoi/openpeon-demon-slayer",
-      "source_ref": "v1.0.0",
-      "source_path": "enmu",
-      "manifest_sha256": "8e0c371f97f96145ca7c74e2c422d86b20665435b1e4b786ec91309f69d39fe2",
-      "tags": [
-        "anime",
-        "demon-slayer",
-        "japanese"
-      ],
-      "preview_sounds": [
-        "enmu-02.mp3",
-        "enmu-03.mp3"
-      ],
-      "added": "2026-03-22",
-      "updated": "2026-03-22"
-    },
-    {
-      "name": "demon-slayer-giyu",
-      "display_name": "Demon Slayer - Giyu Tomioka",
-      "version": "1.0.0",
-      "description": "Giyu Tomioka voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
-      "author": {
-        "name": "dunzkoi",
-        "github": "dunzkoi"
-      },
-      "trust_tier": "community",
-      "categories": [
-        "session.start",
-        "task.acknowledge",
-        "task.complete",
-        "task.error",
-        "input.required",
-        "resource.limit"
-      ],
-      "language": "ja",
-      "license": "fan-community",
-      "sound_count": 9,
-      "total_size_bytes": 466280,
-      "source_repo": "dunzkoi/openpeon-demon-slayer",
-      "source_ref": "v1.0.0",
-      "source_path": "giyu",
-      "manifest_sha256": "9117fd0aa3ba36d801099108c8e1560083c5af88c81cdf3824745c094952b585",
-      "tags": [
-        "anime",
-        "demon-slayer",
-        "japanese"
-      ],
-      "preview_sounds": [
-        "giyuu-pt-1.mp3",
-        "giyu-01.mp3"
-      ],
-      "added": "2026-03-22",
-      "updated": "2026-03-22"
-    },
-    {
-      "name": "demon-slayer-gyomei",
-      "display_name": "Demon Slayer - Gyomei Himejima",
-      "version": "1.0.0",
-      "description": "Gyomei Himejima voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
-      "author": {
-        "name": "dunzkoi",
-        "github": "dunzkoi"
-      },
-      "trust_tier": "community",
-      "categories": [
-        "session.start",
-        "task.acknowledge",
-        "task.complete",
-        "task.error",
-        "input.required",
-        "resource.limit"
-      ],
-      "language": "ja",
-      "license": "fan-community",
-      "sound_count": 7,
-      "total_size_bytes": 706611,
-      "source_repo": "dunzkoi/openpeon-demon-slayer",
-      "source_ref": "v1.0.0",
-      "source_path": "gyomei",
-      "manifest_sha256": "19ebd7f1a3dbe7d22c1a3a27f15b32e295cb3496308850f046823c3fe73fd241",
-      "tags": [
-        "anime",
-        "demon-slayer",
-        "japanese"
-      ],
-      "preview_sounds": [
-        "gyomei-voice1.mp3",
-        "gyomei-voice2.mp3"
-      ],
-      "added": "2026-03-22",
-      "updated": "2026-03-22"
-    },
-    {
-      "name": "demon-slayer-inosuke",
-      "display_name": "Demon Slayer - Inosuke Hashibira",
-      "version": "1.0.0",
-      "description": "Inosuke Hashibira voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
-      "author": {
-        "name": "dunzkoi",
-        "github": "dunzkoi"
-      },
-      "trust_tier": "community",
-      "categories": [
-        "session.start",
-        "task.acknowledge",
-        "task.complete",
-        "task.error",
-        "input.required",
-        "resource.limit"
-      ],
-      "language": "ja",
-      "license": "fan-community",
-      "sound_count": 10,
-      "total_size_bytes": 695635,
-      "source_repo": "dunzkoi/openpeon-demon-slayer",
-      "source_ref": "v1.0.0",
-      "source_path": "inosuke",
-      "manifest_sha256": "29757e87c8ee414ba5ff7046d1c12f18497436946b4328e57ba198289b46c59c",
-      "tags": [
-        "anime",
-        "demon-slayer",
-        "japanese"
-      ],
-      "preview_sounds": [
-        "im-comin-trough-inosuke.mp3",
-        "inosuke-06.mp3"
-      ],
-      "added": "2026-03-22",
-      "updated": "2026-03-22"
-    },
-    {
-      "name": "demon-slayer-kokushibo",
-      "display_name": "Demon Slayer - Kokushibo",
-      "version": "1.0.0",
-      "description": "Kokushibo (Upper Moon One) voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
-      "author": {
-        "name": "dunzkoi",
-        "github": "dunzkoi"
-      },
-      "trust_tier": "community",
-      "categories": [
-        "session.start",
-        "task.acknowledge",
-        "task.complete",
-        "task.error",
-        "input.required",
-        "resource.limit"
-      ],
-      "language": "ja",
-      "license": "fan-community",
-      "sound_count": 7,
-      "total_size_bytes": 282010,
-      "source_repo": "dunzkoi/openpeon-demon-slayer",
-      "source_ref": "v1.0.0",
-      "source_path": "kokushibo",
-      "manifest_sha256": "587fc94ebbf90491935ba7f7624ce55621ec811ced52af5c4e00d793e6a3e083",
-      "tags": [
-        "anime",
-        "demon-slayer",
-        "japanese"
-      ],
-      "preview_sounds": [
-        "kokushibo-01.mp3",
-        "kokushibo-02.mp3"
-      ],
-      "added": "2026-03-22",
-      "updated": "2026-03-22"
-    },
-    {
-      "name": "demon-slayer-mitsuri",
-      "display_name": "Demon Slayer - Mitsuri Kanroji",
-      "version": "1.0.0",
-      "description": "Mitsuri Kanroji voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
-      "author": {
-        "name": "dunzkoi",
-        "github": "dunzkoi"
-      },
-      "trust_tier": "community",
-      "categories": [
-        "session.start",
-        "task.acknowledge",
-        "task.complete",
-        "task.error",
-        "input.required",
-        "resource.limit"
-      ],
-      "language": "ja",
-      "license": "fan-community",
-      "sound_count": 6,
-      "total_size_bytes": 552904,
-      "source_repo": "dunzkoi/openpeon-demon-slayer",
-      "source_ref": "v1.0.0",
-      "source_path": "mitsuri",
-      "manifest_sha256": "6fc6d255845199c96bd28450a4835391d465f807ed3bb7ba03a97ac5bfb460cd",
-      "tags": [
-        "anime",
-        "demon-slayer",
-        "japanese"
-      ],
-      "preview_sounds": [
-        "mitsuri-voice1.mp3",
-        "mitsuri-voice2.mp3"
-      ],
-      "added": "2026-03-22",
-      "updated": "2026-03-22"
-    },
-    {
-      "name": "demon-slayer-muichiro",
-      "display_name": "Demon Slayer - Muichiro Tokito",
-      "version": "1.0.0",
-      "description": "Muichiro Tokito voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
-      "author": {
-        "name": "dunzkoi",
-        "github": "dunzkoi"
-      },
-      "trust_tier": "community",
-      "categories": [
-        "session.start",
-        "task.acknowledge",
-        "task.complete",
-        "task.error",
-        "input.required",
-        "resource.limit"
-      ],
-      "language": "ja",
-      "license": "fan-community",
-      "sound_count": 9,
-      "total_size_bytes": 607500,
-      "source_repo": "dunzkoi/openpeon-demon-slayer",
-      "source_ref": "v1.0.0",
-      "source_path": "muichiro",
-      "manifest_sha256": "bdd3dd66fdd9911b743ce05e804b181dc66fee284a52fa18c0f234fd7f6ec1d3",
-      "tags": [
-        "anime",
-        "demon-slayer",
-        "japanese"
-      ],
-      "preview_sounds": [
-        "muichiro.mp3",
-        "muichiro-tokito.mp3"
-      ],
-      "added": "2026-03-22",
-      "updated": "2026-03-22"
-    },
-    {
-      "name": "demon-slayer-muzan",
-      "display_name": "Demon Slayer - Muzan Kibutsuji",
-      "version": "1.0.0",
-      "description": "Muzan Kibutsuji voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
-      "author": {
-        "name": "dunzkoi",
-        "github": "dunzkoi"
-      },
-      "trust_tier": "community",
-      "categories": [
-        "session.start",
-        "task.acknowledge",
-        "task.complete",
-        "task.error",
-        "input.required",
-        "resource.limit"
-      ],
-      "language": "ja",
-      "license": "fan-community",
-      "sound_count": 23,
-      "total_size_bytes": 1346007,
-      "source_repo": "dunzkoi/openpeon-demon-slayer",
-      "source_ref": "v1.0.0",
-      "source_path": "muzan",
-      "manifest_sha256": "7b101d38bcd3475b1c6dfade0713dae335a6782012410d18b14b046b092e190b",
-      "tags": [
-        "anime",
-        "demon-slayer",
-        "japanese"
-      ],
-      "preview_sounds": [
-        "muzan-voice-pt-1.mp3",
-        "muzan-voice-pt-2.mp3"
-      ],
-      "added": "2026-03-22",
-      "updated": "2026-03-22"
-    },
-    {
-      "name": "demon-slayer-nezuko",
-      "display_name": "Demon Slayer - Nezuko Kamado",
-      "version": "1.0.0",
-      "description": "Nezuko Kamado voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
-      "author": {
-        "name": "dunzkoi",
-        "github": "dunzkoi"
-      },
-      "trust_tier": "community",
-      "categories": [
-        "session.start",
-        "task.acknowledge",
-        "task.complete",
-        "task.error",
-        "input.required",
-        "resource.limit"
-      ],
-      "language": "ja",
-      "license": "fan-community",
-      "sound_count": 14,
-      "total_size_bytes": 703803,
-      "source_repo": "dunzkoi/openpeon-demon-slayer",
-      "source_ref": "v1.0.0",
-      "source_path": "nezuko",
-      "manifest_sha256": "30b1509856d1b3ea9a6b0cb5541b7c178eb91af0163a89f4b77ea772b7aed179",
-      "tags": [
-        "anime",
-        "demon-slayer",
-        "japanese"
-      ],
-      "preview_sounds": [
-        "nezuko-yes.mp3",
-        "nezuko-cute.mp3"
-      ],
-      "added": "2026-03-22",
-      "updated": "2026-03-22"
-    },
-    {
-      "name": "demon-slayer-obanai",
-      "display_name": "Demon Slayer - Obanai Iguro",
-      "version": "1.0.0",
-      "description": "Obanai Iguro voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
-      "author": {
-        "name": "dunzkoi",
-        "github": "dunzkoi"
-      },
-      "trust_tier": "community",
-      "categories": [
-        "session.start",
-        "task.acknowledge",
-        "task.complete",
-        "task.error",
-        "input.required",
-        "resource.limit"
-      ],
-      "language": "ja",
-      "license": "fan-community",
-      "sound_count": 16,
-      "total_size_bytes": 1545505,
-      "source_repo": "dunzkoi/openpeon-demon-slayer",
-      "source_ref": "v1.0.0",
-      "source_path": "obanai",
-      "manifest_sha256": "d744e74d3aa55386c01f339ad0e8949cdb816865dfda4473b417ebb8d2447575",
-      "tags": [
-        "anime",
-        "demon-slayer",
-        "japanese"
-      ],
-      "preview_sounds": [
-        "obanai-intro.mp3",
-        "obanai-pt-1.mp3"
-      ],
-      "added": "2026-03-22",
-      "updated": "2026-03-22"
-    },
-    {
-      "name": "demon-slayer-rengoku",
-      "display_name": "Demon Slayer - Kyojuro Rengoku",
-      "version": "1.0.0",
-      "description": "Kyojuro Rengoku voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
-      "author": {
-        "name": "dunzkoi",
-        "github": "dunzkoi"
-      },
-      "trust_tier": "community",
-      "categories": [
-        "session.start",
-        "task.acknowledge",
-        "task.complete",
-        "task.error",
-        "input.required",
-        "resource.limit"
-      ],
-      "language": "ja",
-      "license": "fan-community",
-      "sound_count": 13,
-      "total_size_bytes": 844115,
-      "source_repo": "dunzkoi/openpeon-demon-slayer",
-      "source_ref": "v1.0.0",
-      "source_path": "rengoku",
-      "manifest_sha256": "c42a1fd261b5a916c2b1757831e2300c342ac1f399cfa6fb2bbfa9c45f73eab3",
-      "tags": [
-        "anime",
-        "demon-slayer",
-        "japanese"
-      ],
-      "preview_sounds": [
-        "rengoku-name.mp3",
-        "rengoku-laugh.mp3"
-      ],
-      "added": "2026-03-22",
-      "updated": "2026-03-22"
-    },
-    {
-      "name": "demon-slayer-sanemi",
-      "display_name": "Demon Slayer - Sanemi Shinazugawa",
-      "version": "1.0.0",
-      "description": "Sanemi Shinazugawa voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
-      "author": {
-        "name": "dunzkoi",
-        "github": "dunzkoi"
-      },
-      "trust_tier": "community",
-      "categories": [
-        "session.start",
-        "task.acknowledge",
-        "task.complete",
-        "task.error",
-        "input.required",
-        "resource.limit"
-      ],
-      "language": "ja",
-      "license": "fan-community",
-      "sound_count": 7,
-      "total_size_bytes": 605552,
-      "source_repo": "dunzkoi/openpeon-demon-slayer",
-      "source_ref": "v1.0.0",
-      "source_path": "sanemi",
-      "manifest_sha256": "1cc746738a62340c5200d30caa97892e69a2c7153a4460d46d2e6028ab088c59",
-      "tags": [
-        "anime",
-        "demon-slayer",
-        "japanese"
-      ],
-      "preview_sounds": [
-        "oi-oi-sanemi.mp3",
-        "sanemi-voice1.mp3"
-      ],
-      "added": "2026-03-22",
-      "updated": "2026-03-22"
-    },
-    {
-      "name": "demon-slayer-shinobu",
-      "display_name": "Demon Slayer - Shinobu Kocho",
-      "version": "1.0.0",
-      "description": "Shinobu Kocho voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
-      "author": {
-        "name": "dunzkoi",
-        "github": "dunzkoi"
-      },
-      "trust_tier": "community",
-      "categories": [
-        "session.start",
-        "task.acknowledge",
-        "task.complete",
-        "task.error",
-        "input.required",
-        "resource.limit"
-      ],
-      "language": "ja",
-      "license": "fan-community",
-      "sound_count": 9,
-      "total_size_bytes": 516057,
-      "source_repo": "dunzkoi/openpeon-demon-slayer",
-      "source_ref": "v1.0.0",
-      "source_path": "shinobu",
-      "manifest_sha256": "f5c58d652afe229ea66d827a06eb2b5663899ca437524a34353f8971032ec2ba",
-      "tags": [
-        "anime",
-        "demon-slayer",
-        "japanese"
-      ],
-      "preview_sounds": [
-        "shinobu-moshi-moshiiiiii.mp3",
-        "shinobu-02.mp3"
-      ],
-      "added": "2026-03-22",
-      "updated": "2026-03-22"
-    },
-    {
-      "name": "demon-slayer-tanjiro",
-      "display_name": "Demon Slayer - Tanjiro Kamado",
-      "version": "1.0.0",
-      "description": "Tanjiro Kamado voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
-      "author": {
-        "name": "dunzkoi",
-        "github": "dunzkoi"
-      },
-      "trust_tier": "community",
-      "categories": [
-        "session.start",
-        "task.acknowledge",
-        "task.complete",
-        "task.error",
-        "input.required",
-        "resource.limit"
-      ],
-      "language": "ja",
-      "license": "fan-community",
-      "sound_count": 20,
-      "total_size_bytes": 1414447,
-      "source_repo": "dunzkoi/openpeon-demon-slayer",
-      "source_ref": "v1.0.0",
-      "source_path": "tanjiro",
-      "manifest_sha256": "630da9bdca357c8c464f915bddc1ec5dadabd0f5b7f3ee8ee2abed88e5044ef7",
-      "tags": [
-        "anime",
-        "demon-slayer",
-        "japanese"
-      ],
-      "preview_sounds": [
-        "tanjiro-his-name.mp3",
-        "tanjiro-voice.mp3"
-      ],
-      "added": "2026-03-22",
-      "updated": "2026-03-22"
-    },
-    {
-      "name": "demon-slayer-tengen",
-      "display_name": "Demon Slayer - Tengen Uzui",
-      "version": "1.0.0",
-      "description": "Tengen Uzui voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
-      "author": {
-        "name": "dunzkoi",
-        "github": "dunzkoi"
-      },
-      "trust_tier": "community",
-      "categories": [
-        "session.start",
-        "task.acknowledge",
-        "task.complete",
-        "task.error",
-        "input.required",
-        "resource.limit"
-      ],
-      "language": "ja",
-      "license": "fan-community",
-      "sound_count": 9,
-      "total_size_bytes": 888467,
-      "source_repo": "dunzkoi/openpeon-demon-slayer",
-      "source_ref": "v1.0.0",
-      "source_path": "tengen",
-      "manifest_sha256": "cea58250e02357675d5316929a2159b677e16ed02dced82a91948cf41797c621",
-      "tags": [
-        "anime",
-        "demon-slayer",
-        "japanese"
-      ],
-      "preview_sounds": [
-        "tengen-nanda.mp3",
-        "tengen-voice1.mp3"
-      ],
-      "added": "2026-03-22",
-      "updated": "2026-03-22"
-    },
-    {
-      "name": "demon-slayer-zenitsu",
-      "display_name": "Demon Slayer - Zenitsu Agatsuma",
-      "version": "1.0.0",
-      "description": "Zenitsu Agatsuma voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
-      "author": {
-        "name": "dunzkoi",
-        "github": "dunzkoi"
-      },
-      "trust_tier": "community",
-      "categories": [
-        "session.start",
-        "task.acknowledge",
-        "task.complete",
-        "task.error",
-        "input.required",
-        "resource.limit"
-      ],
-      "language": "ja",
-      "license": "fan-community",
-      "sound_count": 10,
-      "total_size_bytes": 871720,
-      "source_repo": "dunzkoi/openpeon-demon-slayer",
-      "source_ref": "v1.0.0",
-      "source_path": "zenitsu",
-      "manifest_sha256": "d8292fc99007f4e12f474a7e7622da2d2fbaef119360b846587a265a50771fbc",
-      "tags": [
-        "anime",
-        "demon-slayer",
-        "japanese"
-      ],
-      "preview_sounds": [
-        "zenitsu-lightning-breath.mp3",
-        "zenitsu.mp3"
-      ],
-      "added": "2026-03-22",
-      "updated": "2026-03-22"
-    },
-    {
       "name": "diehard",
       "display_name": "Die Hard",
       "version": "1.0.1",
@@ -2417,6 +1985,47 @@
       "added": "2026-02-26",
       "updated": "2026-02-26",
       "quality": "flagged"
+    },
+    {
+      "name": "djkhaled",
+      "display_name": "DJ Khaled",
+      "version": "1.0.0",
+      "description": "DJ Khaled catchphrases as coding notification sounds — Another one! We the best! Major key alert!",
+      "author": {
+        "name": "mevinmathew23",
+        "github": "mevinmathew23"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 19,
+      "total_size_bytes": 487143,
+      "source_repo": "mevinmathew23/openpeon-djkhaled",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "7c074c18ab628712672972141d4f7c7e58f7ae7c036133d71c8787eea2e8fb38",
+      "tags": [
+        "music",
+        "hiphop",
+        "character",
+        "catchphrase"
+      ],
+      "preview_sounds": [
+        "sounds/AnotherOne.mp3",
+        "sounds/MajorKeyAlert.mp3",
+        "sounds/WeTheBest.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
     },
     {
       "name": "djt",
@@ -2497,6 +2106,90 @@
       ],
       "added": "2026-02-17",
       "updated": "2026-02-17"
+    },
+    {
+      "name": "domina",
+      "display_name": "Overwatch - Domina",
+      "version": "1.0.0",
+      "description": "Domina voice lines from Overwatch -- the commanding gladiator tank",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 607296,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "domina",
+      "manifest_sha256": "fc7739efa74111ee8122671890ffc0514a3e85d14606f58d9d3c23f33cf0eb85",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
+      "name": "doomfist",
+      "display_name": "Overwatch - Doomfist",
+      "version": "1.0.0",
+      "description": "Doomfist voice lines from Overwatch -- the successor to the gauntlet",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 46,
+      "total_size_bytes": 480384,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "doomfist",
+      "manifest_sha256": "90cfee158fb67d925ed24ee4b6e1ab3049669e589a87df6d07e74d8f6699f890",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
     },
     {
       "name": "dota2_axe",
@@ -2777,6 +2470,779 @@
       "updated": "2026-03-16"
     },
     {
+      "name": "ds1-carvings",
+      "display_name": "Dark Souls – Carvings",
+      "version": "1.0.0",
+      "description": "Gough's infamous carvings from Dark Souls as sound effects for various events.",
+      "author": {
+        "name": "jmfiebak",
+        "github": "jmfiebak"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "resource.limit"
+      ],
+      "language": "en",
+      "license": "MIT",
+      "sound_count": 6,
+      "total_size_bytes": 1142784,
+      "source_repo": "jmfiebak/openpeon-carvings-sound-pack",
+      "source_ref": "v1.0.4",
+      "source_path": ".",
+      "manifest_sha256": "eea7a4d9285e37b874c51d340c2ccc10a8c1d32f275e8a340088dd460652346e",
+      "tags": [
+        "gaming",
+        "dark souls",
+        "fantasy",
+        "carvings"
+      ],
+      "preview_sounds": [
+        "CarvingsImSorry.mp3",
+        "CarvingsHelpMe.mp3"
+      ],
+      "added": "2026-03-25",
+      "updated": "2026-03-25"
+    },
+    {
+      "name": "ds1-siegmeyer",
+      "display_name": "Dark Souls – Siegmeyer of Catarina",
+      "version": "1.0.1",
+      "description": "A sound pack with a big heart and bigger armor.",
+      "author": {
+        "name": "jmfiebak",
+        "github": "jmfiebak"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam",
+        "user.end"
+      ],
+      "language": "en",
+      "license": "MIT",
+      "sound_count": 69,
+      "total_size_bytes": 10326016,
+      "source_repo": "jmfiebak/openpeon-siegmeyer-sound-pack",
+      "source_ref": "v1.0.1",
+      "source_path": ".",
+      "manifest_sha256": "c5702b22ccba1cfdfae17cbe0b524dc2f2b369ddc735d6447867112c856a324d",
+      "tags": [
+        "gaming",
+        "dark souls",
+        "fantasy",
+        "siegmeyer",
+        "knight"
+      ],
+      "preview_sounds": [
+        "SiegmeyerHm2.mp3",
+        "SiegmeyerICurseMyInability.mp3"
+      ],
+      "added": "2026-03-25",
+      "updated": "2026-03-25"
+    },
+    {
+      "name": "ds1-solaire",
+      "display_name": "Dark Souls – Solaire of Astora",
+      "version": "1.0.2",
+      "description": "A sound pack for true warriors of sunlight.",
+      "author": {
+        "name": "jmfiebak",
+        "github": "jmfiebak"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam",
+        "user.end"
+      ],
+      "language": "en",
+      "license": "MIT",
+      "sound_count": 41,
+      "total_size_bytes": 9207808,
+      "source_repo": "jmfiebak/openpeon-solaire-sound-pack",
+      "source_ref": "v1.0.3",
+      "source_path": ".",
+      "manifest_sha256": "f2dc189cbe90a3a02731baab8bca1150b4a4e5e4009211bbec99c9c45c1df5db",
+      "tags": [
+        "gaming",
+        "dark souls",
+        "fantasy",
+        "solaire",
+        "knight"
+      ],
+      "preview_sounds": [
+        "SolaireHelloStillHere.mp3",
+        "SolaireProposition.mp3"
+      ],
+      "added": "2026-03-23",
+      "updated": "2026-03-25"
+    },
+    {
+      "name": "ds_akaza",
+      "display_name": "Demon Slayer - Akaza",
+      "version": "1.2.0",
+      "description": "Akaza (Upper Moon 3) voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+      "author": {
+        "name": "dunzkoi",
+        "github": "dunzkoi"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error"
+      ],
+      "language": "ja",
+      "license": "fan-community",
+      "sound_count": 11,
+      "total_size_bytes": 752283,
+      "source_repo": "dunzkoi/openpeon-demon-slayer",
+      "source_ref": "v1.2.0",
+      "source_path": "akaza",
+      "manifest_sha256": "0330b9d3f1ecbcbdd8725895e377811f2e6b3acc2e1c87210fe444eb63131b81",
+      "tags": [
+        "anime",
+        "demon-slayer",
+        "kimetsu-no-yaiba",
+        "japanese"
+      ],
+      "preview_sounds": [],
+      "added": "2026-03-28",
+      "updated": "2026-03-28"
+    },
+    {
+      "name": "ds_doma",
+      "display_name": "Demon Slayer - Doma",
+      "version": "1.2.0",
+      "description": "Doma (Upper Moon Two) voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+      "author": {
+        "name": "dunzkoi",
+        "github": "dunzkoi"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error"
+      ],
+      "language": "ja",
+      "license": "fan-community",
+      "sound_count": 11,
+      "total_size_bytes": 828439,
+      "source_repo": "dunzkoi/openpeon-demon-slayer",
+      "source_ref": "v1.2.0",
+      "source_path": "doma",
+      "manifest_sha256": "837ca66023fc6772e23c11bab135a8e590a5c1d9f8a1c600355926f0211d92d5",
+      "tags": [
+        "anime",
+        "demon-slayer",
+        "kimetsu-no-yaiba",
+        "japanese"
+      ],
+      "preview_sounds": [],
+      "added": "2026-03-28",
+      "updated": "2026-03-28"
+    },
+    {
+      "name": "ds_enmu",
+      "display_name": "Demon Slayer - Enmu",
+      "version": "1.2.0",
+      "description": "Enmu (Lower Moon One) voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+      "author": {
+        "name": "dunzkoi",
+        "github": "dunzkoi"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error"
+      ],
+      "language": "ja",
+      "license": "fan-community",
+      "sound_count": 9,
+      "total_size_bytes": 503188,
+      "source_repo": "dunzkoi/openpeon-demon-slayer",
+      "source_ref": "v1.2.0",
+      "source_path": "enmu",
+      "manifest_sha256": "dcc02f7134445c33e60480880cdd1b5746df94ccc81ac0ace4194baf8c65a416",
+      "tags": [
+        "anime",
+        "demon-slayer",
+        "kimetsu-no-yaiba",
+        "japanese"
+      ],
+      "preview_sounds": [],
+      "added": "2026-03-28",
+      "updated": "2026-03-28"
+    },
+    {
+      "name": "ds_giyu",
+      "display_name": "Demon Slayer - Giyu Tomioka",
+      "version": "1.2.0",
+      "description": "Giyu Tomioka voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+      "author": {
+        "name": "dunzkoi",
+        "github": "dunzkoi"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error"
+      ],
+      "language": "ja",
+      "license": "fan-community",
+      "sound_count": 10,
+      "total_size_bytes": 448462,
+      "source_repo": "dunzkoi/openpeon-demon-slayer",
+      "source_ref": "v1.2.0",
+      "source_path": "giyu",
+      "manifest_sha256": "c37f55f2b0c9709721b24efaeb59892397e3c3b4930e7dfa11affefaf3ea6e14",
+      "tags": [
+        "anime",
+        "demon-slayer",
+        "kimetsu-no-yaiba",
+        "japanese"
+      ],
+      "preview_sounds": [],
+      "added": "2026-03-28",
+      "updated": "2026-03-28"
+    },
+    {
+      "name": "ds_gyomei",
+      "display_name": "Demon Slayer - Gyomei Himejima",
+      "version": "1.2.0",
+      "description": "Gyomei Himejima voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+      "author": {
+        "name": "dunzkoi",
+        "github": "dunzkoi"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error"
+      ],
+      "language": "ja",
+      "license": "fan-community",
+      "sound_count": 9,
+      "total_size_bytes": 589212,
+      "source_repo": "dunzkoi/openpeon-demon-slayer",
+      "source_ref": "v1.2.0",
+      "source_path": "gyomei",
+      "manifest_sha256": "9096a4e0125414ea5230d8a89b78d468bbf48f5d18b112fc0af2a6b38ae747bb",
+      "tags": [
+        "anime",
+        "demon-slayer",
+        "kimetsu-no-yaiba",
+        "japanese"
+      ],
+      "preview_sounds": [],
+      "added": "2026-03-28",
+      "updated": "2026-03-28"
+    },
+    {
+      "name": "ds_inosuke",
+      "display_name": "Demon Slayer - Inosuke Hashibira",
+      "version": "1.2.0",
+      "description": "Inosuke Hashibira voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+      "author": {
+        "name": "dunzkoi",
+        "github": "dunzkoi"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error"
+      ],
+      "language": "ja",
+      "license": "fan-community",
+      "sound_count": 12,
+      "total_size_bytes": 755194,
+      "source_repo": "dunzkoi/openpeon-demon-slayer",
+      "source_ref": "v1.2.0",
+      "source_path": "inosuke",
+      "manifest_sha256": "ff4e4ce693f5aa583d73b25c7a1fc11cf56e33f90f192fc6668ca3942ba9b674",
+      "tags": [
+        "anime",
+        "demon-slayer",
+        "kimetsu-no-yaiba",
+        "japanese"
+      ],
+      "preview_sounds": [],
+      "added": "2026-03-28",
+      "updated": "2026-03-28"
+    },
+    {
+      "name": "ds_kokushibo",
+      "display_name": "Demon Slayer - Kokushibo",
+      "version": "1.2.0",
+      "description": "Kokushibo (Upper Moon One) voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+      "author": {
+        "name": "dunzkoi",
+        "github": "dunzkoi"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error"
+      ],
+      "language": "ja",
+      "license": "fan-community",
+      "sound_count": 9,
+      "total_size_bytes": 410813,
+      "source_repo": "dunzkoi/openpeon-demon-slayer",
+      "source_ref": "v1.2.0",
+      "source_path": "kokushibo",
+      "manifest_sha256": "5a7bbe1d307c36e48c66c49657b5272d03ca81519e681c1c4ff8251e2acaad7a",
+      "tags": [
+        "anime",
+        "demon-slayer",
+        "kimetsu-no-yaiba",
+        "japanese"
+      ],
+      "preview_sounds": [],
+      "added": "2026-03-28",
+      "updated": "2026-03-28"
+    },
+    {
+      "name": "ds_mitsuri",
+      "display_name": "Demon Slayer - Mitsuri Kanroji",
+      "version": "1.2.0",
+      "description": "Mitsuri Kanroji voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+      "author": {
+        "name": "dunzkoi",
+        "github": "dunzkoi"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error"
+      ],
+      "language": "ja",
+      "license": "fan-community",
+      "sound_count": 7,
+      "total_size_bytes": 481530,
+      "source_repo": "dunzkoi/openpeon-demon-slayer",
+      "source_ref": "v1.2.0",
+      "source_path": "mitsuri",
+      "manifest_sha256": "7c42b3aee2f21c71d36416de020c7a7b51314824ee2ad92e4633718fefb3b4ee",
+      "tags": [
+        "anime",
+        "demon-slayer",
+        "kimetsu-no-yaiba",
+        "japanese"
+      ],
+      "preview_sounds": [],
+      "added": "2026-03-28",
+      "updated": "2026-03-28"
+    },
+    {
+      "name": "ds_muichiro",
+      "display_name": "Demon Slayer - Muichiro Tokito",
+      "version": "1.2.0",
+      "description": "Muichiro Tokito voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+      "author": {
+        "name": "dunzkoi",
+        "github": "dunzkoi"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error"
+      ],
+      "language": "ja",
+      "license": "fan-community",
+      "sound_count": 10,
+      "total_size_bytes": 542861,
+      "source_repo": "dunzkoi/openpeon-demon-slayer",
+      "source_ref": "v1.2.0",
+      "source_path": "muichiro",
+      "manifest_sha256": "58b0af52f42298d09e96700227e66d262b161079a739c51422ffc565b0aab557",
+      "tags": [
+        "anime",
+        "demon-slayer",
+        "kimetsu-no-yaiba",
+        "japanese"
+      ],
+      "preview_sounds": [],
+      "added": "2026-03-28",
+      "updated": "2026-03-28"
+    },
+    {
+      "name": "ds_muzan",
+      "display_name": "Demon Slayer - Muzan Kibutsuji",
+      "version": "1.2.0",
+      "description": "Muzan Kibutsuji voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+      "author": {
+        "name": "dunzkoi",
+        "github": "dunzkoi"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error"
+      ],
+      "language": "ja",
+      "license": "fan-community",
+      "sound_count": 13,
+      "total_size_bytes": 769965,
+      "source_repo": "dunzkoi/openpeon-demon-slayer",
+      "source_ref": "v1.2.0",
+      "source_path": "muzan",
+      "manifest_sha256": "4362689c9e05313bbbdd0ddeeeecc6cd6a34f5a1e71487bc3f6c56d619d20501",
+      "tags": [
+        "anime",
+        "demon-slayer",
+        "kimetsu-no-yaiba",
+        "japanese"
+      ],
+      "preview_sounds": [],
+      "added": "2026-03-28",
+      "updated": "2026-03-28"
+    },
+    {
+      "name": "ds_nezuko",
+      "display_name": "Demon Slayer - Nezuko Kamado",
+      "version": "1.2.0",
+      "description": "Nezuko Kamado voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+      "author": {
+        "name": "dunzkoi",
+        "github": "dunzkoi"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error"
+      ],
+      "language": "ja",
+      "license": "fan-community",
+      "sound_count": 13,
+      "total_size_bytes": 672828,
+      "source_repo": "dunzkoi/openpeon-demon-slayer",
+      "source_ref": "v1.2.0",
+      "source_path": "nezuko",
+      "manifest_sha256": "e0bbaf5102b101f7c65cf7afcaf983a5551809bdc2fe0f7305fcf88836fa4900",
+      "tags": [
+        "anime",
+        "demon-slayer",
+        "kimetsu-no-yaiba",
+        "japanese"
+      ],
+      "preview_sounds": [],
+      "added": "2026-03-28",
+      "updated": "2026-03-28"
+    },
+    {
+      "name": "ds_obanai",
+      "display_name": "Demon Slayer - Obanai Iguro",
+      "version": "1.2.0",
+      "description": "Obanai Iguro voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+      "author": {
+        "name": "dunzkoi",
+        "github": "dunzkoi"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error"
+      ],
+      "language": "ja",
+      "license": "fan-community",
+      "sound_count": 18,
+      "total_size_bytes": 1415311,
+      "source_repo": "dunzkoi/openpeon-demon-slayer",
+      "source_ref": "v1.2.0",
+      "source_path": "obanai",
+      "manifest_sha256": "ba7c2891ae31bce0b0c3f327702d10e28833d296b5c9886fa1bf34e2d24d8eb9",
+      "tags": [
+        "anime",
+        "demon-slayer",
+        "kimetsu-no-yaiba",
+        "japanese"
+      ],
+      "preview_sounds": [],
+      "added": "2026-03-28",
+      "updated": "2026-03-28"
+    },
+    {
+      "name": "ds_rengoku",
+      "display_name": "Demon Slayer - Kyojuro Rengoku",
+      "version": "1.2.0",
+      "description": "Kyojuro Rengoku voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+      "author": {
+        "name": "dunzkoi",
+        "github": "dunzkoi"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error"
+      ],
+      "language": "ja",
+      "license": "fan-community",
+      "sound_count": 11,
+      "total_size_bytes": 627404,
+      "source_repo": "dunzkoi/openpeon-demon-slayer",
+      "source_ref": "v1.2.0",
+      "source_path": "rengoku",
+      "manifest_sha256": "262dfb0e796ac38ba8ee48ff833481fb4a04956015d5a78d6f0e15d2f1058cae",
+      "tags": [
+        "anime",
+        "demon-slayer",
+        "kimetsu-no-yaiba",
+        "japanese"
+      ],
+      "preview_sounds": [],
+      "added": "2026-03-28",
+      "updated": "2026-03-28"
+    },
+    {
+      "name": "ds_sanemi",
+      "display_name": "Demon Slayer - Sanemi Shinazugawa",
+      "version": "1.2.0",
+      "description": "Sanemi Shinazugawa voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+      "author": {
+        "name": "dunzkoi",
+        "github": "dunzkoi"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error"
+      ],
+      "language": "ja",
+      "license": "fan-community",
+      "sound_count": 10,
+      "total_size_bytes": 491700,
+      "source_repo": "dunzkoi/openpeon-demon-slayer",
+      "source_ref": "v1.2.0",
+      "source_path": "sanemi",
+      "manifest_sha256": "ae1efad1237e4db5e70c10927fdc3638e3fbb3176eb689f3f890363cc9178ac0",
+      "tags": [
+        "anime",
+        "demon-slayer",
+        "kimetsu-no-yaiba",
+        "japanese"
+      ],
+      "preview_sounds": [],
+      "added": "2026-03-28",
+      "updated": "2026-03-28"
+    },
+    {
+      "name": "ds_shinobu",
+      "display_name": "Demon Slayer - Shinobu Kocho",
+      "version": "1.2.0",
+      "description": "Shinobu Kocho voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+      "author": {
+        "name": "dunzkoi",
+        "github": "dunzkoi"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error"
+      ],
+      "language": "ja",
+      "license": "fan-community",
+      "sound_count": 10,
+      "total_size_bytes": 608746,
+      "source_repo": "dunzkoi/openpeon-demon-slayer",
+      "source_ref": "v1.2.0",
+      "source_path": "shinobu",
+      "manifest_sha256": "2274615900fc0f060b9adc3abf3b6a454e42ce1a958debc8c3f2247d330bd337",
+      "tags": [
+        "anime",
+        "demon-slayer",
+        "kimetsu-no-yaiba",
+        "japanese"
+      ],
+      "preview_sounds": [],
+      "added": "2026-03-28",
+      "updated": "2026-03-28"
+    },
+    {
+      "name": "ds_tanjiro",
+      "display_name": "Demon Slayer - Tanjiro Kamado",
+      "version": "1.2.0",
+      "description": "Tanjiro Kamado voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+      "author": {
+        "name": "dunzkoi",
+        "github": "dunzkoi"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error"
+      ],
+      "language": "ja",
+      "license": "fan-community",
+      "sound_count": 16,
+      "total_size_bytes": 1011011,
+      "source_repo": "dunzkoi/openpeon-demon-slayer",
+      "source_ref": "v1.2.0",
+      "source_path": "tanjiro",
+      "manifest_sha256": "e6a708a7d940997c37c9f055aea199c6c083475d28c683cb056c8d756e99b715",
+      "tags": [
+        "anime",
+        "demon-slayer",
+        "kimetsu-no-yaiba",
+        "japanese"
+      ],
+      "preview_sounds": [],
+      "added": "2026-03-28",
+      "updated": "2026-03-28"
+    },
+    {
+      "name": "ds_tengen",
+      "display_name": "Demon Slayer - Tengen Uzui",
+      "version": "1.2.0",
+      "description": "Tengen Uzui voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+      "author": {
+        "name": "dunzkoi",
+        "github": "dunzkoi"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error"
+      ],
+      "language": "ja",
+      "license": "fan-community",
+      "sound_count": 11,
+      "total_size_bytes": 875785,
+      "source_repo": "dunzkoi/openpeon-demon-slayer",
+      "source_ref": "v1.2.0",
+      "source_path": "tengen",
+      "manifest_sha256": "917bf7f6e3f87d90a08ad7fcceae2e3a7bc8a571041c8885fa99b97abb1f43c2",
+      "tags": [
+        "anime",
+        "demon-slayer",
+        "kimetsu-no-yaiba",
+        "japanese"
+      ],
+      "preview_sounds": [],
+      "added": "2026-03-28",
+      "updated": "2026-03-28"
+    },
+    {
+      "name": "ds_zenitsu",
+      "display_name": "Demon Slayer - Zenitsu Agatsuma",
+      "version": "1.2.0",
+      "description": "Zenitsu Agatsuma voice pack from Demon Slayer (Kimetsu no Yaiba) - Fan community voice pack",
+      "author": {
+        "name": "dunzkoi",
+        "github": "dunzkoi"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error"
+      ],
+      "language": "ja",
+      "license": "fan-community",
+      "sound_count": 9,
+      "total_size_bytes": 494574,
+      "source_repo": "dunzkoi/openpeon-demon-slayer",
+      "source_ref": "v1.2.0",
+      "source_path": "zenitsu",
+      "manifest_sha256": "281bba07723e81bf0eb92160d8f998804310358f8ff630c3d84fdd8f5d6280de",
+      "tags": [
+        "anime",
+        "demon-slayer",
+        "kimetsu-no-yaiba",
+        "japanese"
+      ],
+      "preview_sounds": [],
+      "added": "2026-03-28",
+      "updated": "2026-03-28"
+    },
+    {
       "name": "duke_nukem",
       "display_name": "Duke Nukem",
       "version": "1.0.0",
@@ -2855,6 +3321,48 @@
       "updated": "2026-02-17"
     },
     {
+      "name": "echo",
+      "display_name": "Overwatch - Echo",
+      "version": "1.0.0",
+      "description": "Echo voice lines from Overwatch -- the adaptive AI robot with evolving personality",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 422976,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "echo",
+      "manifest_sha256": "7aec9c1d45b93e6524828fe01c6d2f17d461fb1f0d300356df5faf1a5ae26a3c",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
       "name": "emir",
       "display_name": "The Emir (Stronghold Crusader)",
       "version": "1.2.1",
@@ -2893,6 +3401,48 @@
       ],
       "added": "2026-03-01",
       "updated": "2026-03-03"
+    },
+    {
+      "name": "emre",
+      "display_name": "Overwatch - Emre",
+      "version": "1.0.0",
+      "description": "Emre voice lines from Overwatch -- the Turkish damage dealer",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 454464,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "emre",
+      "manifest_sha256": "6ce705b9fca0dcd3e62a7cb2004754b31043c34799184b8938da35af68f9c2f2",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
     },
     {
       "name": "eve-walle",
@@ -2975,6 +3525,48 @@
       "updated": "2026-03-03"
     },
     {
+      "name": "freja",
+      "display_name": "Overwatch - Freja",
+      "version": "1.0.0",
+      "description": "Freja voice lines from Overwatch -- the fierce Nordic warrior",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 417600,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "freja",
+      "manifest_sha256": "2dc32bb67e211c966baaabd5fa80209ad8a64b589d467e619093e59333f93594",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
       "name": "futurama_bender",
       "display_name": "Bender (Futurama)",
       "version": "1.0.0",
@@ -3014,6 +3606,48 @@
       ],
       "added": "2026-02-16",
       "updated": "2026-02-16"
+    },
+    {
+      "name": "genji",
+      "display_name": "Overwatch - Genji",
+      "version": "1.0.0",
+      "description": "Genji voice lines from Overwatch -- the cybernetic ninja who walks between man and machine",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 542400,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "genji",
+      "manifest_sha256": "443237ddff2db31f6d4d47e14e80ba721d4fc870bff73d684918cf9566c6295a",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
     },
     {
       "name": "gilfoyle",
@@ -3092,6 +3726,45 @@
       ],
       "added": "2026-02-12",
       "updated": "2026-02-12"
+    },
+    {
+      "name": "gothic_2_nameless_hero",
+      "display_name": "Gothic (Bezimienny)",
+      "version": "1.0.0",
+      "description": "Nameless hero sound pack from Gothic 2",
+      "author": {
+        "name": "Robert Harezlak",
+        "github": "Rxbsxn"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit"
+      ],
+      "language": "pl",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 18,
+      "total_size_bytes": 753664,
+      "source_repo": "Rxbsxn/openpeon-gothic",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "ed3f3764522bdc68846cfcba8bdfc8f95281bf8a4ca862ac35df518462400c76",
+      "tags": [
+        "gaming",
+        "gothic",
+        "bezimienny",
+        "nameless"
+      ],
+      "preview_sounds": [
+        "jak_leci.mp3",
+        "jestem_tu_nowy.mp3"
+      ],
+      "added": "2026-03-23",
+      "updated": "2026-03-23"
     },
     {
       "name": "guppi",
@@ -3212,6 +3885,90 @@
       "updated": "2026-03-04"
     },
     {
+      "name": "hanzo",
+      "display_name": "Overwatch - Hanzo",
+      "version": "1.0.0",
+      "description": "Hanzo voice lines from Overwatch -- the master bowman seeking redemption",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 542784,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "hanzo",
+      "manifest_sha256": "42377a7dab895b18f22c40689ad713a50dac2b44a446333f05d18e54886a7a82",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
+      "name": "hazard",
+      "display_name": "Overwatch - Hazard",
+      "version": "1.0.0",
+      "description": "Hazard voice lines from Overwatch -- the brash barrier tank",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 439488,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "hazard",
+      "manifest_sha256": "3628de2090bebbd28e9cde937e363a6f3c2d98b96267006cc41af9b6367a63ac",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
       "name": "hd2_helldiver",
       "display_name": "Helldiver (Helldivers 2)",
       "version": "1.0.0",
@@ -3290,6 +4047,130 @@
       ],
       "added": "2026-03-09",
       "updated": "2026-03-09"
+    },
+    {
+      "name": "honor_of_kings",
+      "display_name": "Honor of Kings (王者荣耀)",
+      "version": "1.0.1",
+      "description": "Honor of Kings game announcement voice lines and XiShi character VO",
+      "author": {
+        "name": "zenvor",
+        "github": "zenvor"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "zh",
+      "license": "MIT",
+      "sound_count": 80,
+      "total_size_bytes": 30255486,
+      "source_repo": "zenvor/openpeon-honor-of-kings",
+      "source_ref": "v1.0.1",
+      "source_path": ".",
+      "manifest_sha256": "2147d931af39a004c17a58e6a7b738fd15b5490f73276428c2bd98068bf1e32e",
+      "tags": [
+        "gaming",
+        "moba",
+        "honor-of-kings",
+        "chinese",
+        "tencent",
+        "wang-zhe-rong-yao"
+      ],
+      "preview_sounds": [
+        "welcome-to-kings-canyon.wav",
+        "pentakill-1.wav"
+      ],
+      "added": "2026-03-23",
+      "updated": "2026-03-23"
+    },
+    {
+      "name": "illari",
+      "display_name": "Overwatch - Illari",
+      "version": "1.0.0",
+      "description": "Illari voice lines from Overwatch -- the Inti warrior who channels the power of the sun",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 440448,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "illari",
+      "manifest_sha256": "932640038a267a7fa9130eeeddd1b74be06d7587029a3d843c7a286d083dd309",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
+      "name": "jan_pawel_2",
+      "display_name": "Jan Pawel 2",
+      "version": "1.0.6",
+      "description": "Jan Pawel 2, the greatest Pole of all time.",
+      "author": {
+        "name": "Pan Jawel",
+        "github": "pan-jawel"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "pl",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 60,
+      "source_repo": "pan-jawel/openpeon-jp2",
+      "source_ref": "v1.0.6",
+      "source_path": ".",
+      "manifest_sha256": "f4fbeaf7172c8d0231b49b5abff044d95bf043f5f020745c85a68d77d444574d",
+      "tags": [
+        "polish"
+      ],
+      "preview_sounds": [
+        "badzmy-lagodni.mp3",
+        "co-mam-robic.mp3"
+      ],
+      "added": "2026-03-25",
+      "updated": "2026-03-27"
     },
     {
       "name": "jarvis",
@@ -3375,6 +4256,132 @@
       ],
       "added": "2026-03-03",
       "updated": "2026-03-03"
+    },
+    {
+      "name": "junker_queen",
+      "display_name": "Overwatch - Junker Queen",
+      "version": "1.0.0",
+      "description": "Junker Queen voice lines from Overwatch -- the ruthless ruler of Junkertown",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 576000,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "junker_queen",
+      "manifest_sha256": "ceb95aaa9213b21c5d0285944a5e4134b9c43b46a6433d9c9bfb5934c600b72c",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
+      "name": "junkrat",
+      "display_name": "Overwatch - Junkrat",
+      "version": "1.0.0",
+      "description": "Junkrat voice lines from Overwatch -- the explosive-obsessed anarchist from the Australian Outback",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 617856,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "junkrat",
+      "manifest_sha256": "d3784a869911cde43d22b13ba1dda97fad3ac3f93a5a5d52f875375f1c39e72a",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
+      "name": "juno",
+      "display_name": "Overwatch - Juno",
+      "version": "1.0.0",
+      "description": "Juno voice lines from Overwatch -- the Mars colony medic with orbital tech",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 488256,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "juno",
+      "manifest_sha256": "1b5337f1c73ab0b9f5c129e04d74fe2fc1639c412c6bd7a6393dd177fb65884e",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
     },
     {
       "name": "kaamelott",
@@ -3795,6 +4802,48 @@
       "quality": "flagged"
     },
     {
+      "name": "lifeweaver",
+      "display_name": "Overwatch - Lifeweaver",
+      "version": "1.0.0",
+      "description": "Lifeweaver voice lines from Overwatch -- the biolight architect who sculpts life itself",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 447744,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "lifeweaver",
+      "manifest_sha256": "4f5da805a8617fb593fe1833098febc688970e46f59ef944560bd62e5eb937dc",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
       "name": "lol_fiddlesticks",
       "display_name": "Fiddlesticks",
       "version": "1.0.0",
@@ -3915,6 +4964,88 @@
       "updated": "2026-03-19"
     },
     {
+      "name": "lucio",
+      "display_name": "Overwatch - Lucio",
+      "version": "1.0.0",
+      "description": "Lucio voice lines from Overwatch -- the freedom-fighting DJ who heals with music",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 404736,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "lucio",
+      "manifest_sha256": "85c3e14c40139598e0b02b5440b4272fe150705b388b1cb7d61209b9ea989eae",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
+      "name": "mambo_pack",
+      "display_name": "Mambo Pack",
+      "version": "1.0.0",
+      "description": "Fun yet restrained Mambo voice pack — Chinese meme-flavored coding companion",
+      "author": {
+        "name": "nicoaz",
+        "github": "nicoaz"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "user.spam"
+      ],
+      "language": "zh",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 21,
+      "total_size_bytes": 273325,
+      "source_repo": "nicoaz/openpeon-mambopack",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "a619d6ad27337efcbf02477fc61b247a600522b2b245e8678edbe365a81680bb",
+      "tags": [
+        "chinese",
+        "meme",
+        "mambo",
+        "original"
+      ],
+      "preview_sounds": [
+        "start_mambo.mp3",
+        "done.mp3"
+      ],
+      "added": "2026-03-30",
+      "updated": "2026-03-30"
+    },
+    {
       "name": "marcel",
       "display_name": "Marcel",
       "version": "1.0.0",
@@ -3992,6 +5123,132 @@
       "updated": "2026-03-03"
     },
     {
+      "name": "mauga",
+      "display_name": "Overwatch - Mauga",
+      "version": "1.0.0",
+      "description": "Mauga voice lines from Overwatch -- the chaotic Samoan warrior",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 535296,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "mauga",
+      "manifest_sha256": "3deb5460d4b0c009376fcd23cd0d0eb20339273cbd6ceca8403c6589b7954630",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
+      "name": "mei",
+      "display_name": "Overwatch - Mei",
+      "version": "1.0.0",
+      "description": "Mei voice lines from Overwatch -- the climatologist who fights with ice and warmth",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 475008,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "mei",
+      "manifest_sha256": "d36e2c656acb8bc4a0a1d3db9c2496620ccd63ba832e0dafcf2524834d113eb3",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
+      "name": "mercy",
+      "display_name": "Overwatch - Mercy",
+      "version": "1.0.0",
+      "description": "Mercy voice lines from Overwatch -- the guardian angel and peerless healer",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 452736,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "mercy",
+      "manifest_sha256": "d66e4a152d236326bfd10f5b18fa3296ec888e3c8f015c97f54c52600e905548",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
       "name": "milujipraci",
       "display_name": "Miluji Práci",
       "version": "1.0.0",
@@ -4064,6 +5321,48 @@
       "updated": "2026-02-24"
     },
     {
+      "name": "mizuki",
+      "display_name": "Overwatch - Mizuki",
+      "version": "1.0.0",
+      "description": "Mizuki voice lines from Overwatch -- the spirit-wielding support hero",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 351744,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "mizuki",
+      "manifest_sha256": "6dd25afe3cb9fa64f334c18fe8fd160c78056c9d098ffcdfefe25f8aeaf04bc3",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
       "name": "modern-varied",
       "display_name": "Modern GUI",
       "version": "1.0.1",
@@ -4099,6 +5398,49 @@
       "preview_sounds": [],
       "added": "2026-03-16",
       "updated": "2026-03-16"
+    },
+    {
+      "name": "moira",
+      "display_name": "Overwatch - Moira",
+      "version": "1.0.0",
+      "description": "Moira voice lines from Overwatch -- the geneticist who will reshape humanity",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 46,
+      "total_size_bytes": 615552,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "moira",
+      "manifest_sha256": "caa7257a065b65c627e66b24ca75ca1ea6ba1872e4a6e2321549571ec36aa9e1",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps",
+        "irish"
+      ],
+      "preview_sounds": [
+        "task_complete_6.mp3",
+        "session_start_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
     },
     {
       "name": "molag_bal",
@@ -4617,6 +5959,48 @@
       ],
       "added": "2026-02-12",
       "updated": "2026-03-10"
+    },
+    {
+      "name": "orisa",
+      "display_name": "Overwatch - Orisa",
+      "version": "1.0.0",
+      "description": "Orisa voice lines from Overwatch -- the guardian robot of Numbani",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 46,
+      "total_size_bytes": 541248,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "orisa",
+      "manifest_sha256": "11b0a286752e724601a6c6c5a4c5ecb4cb4c141fa7396495ccf77c4e6dddbe3b",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
     },
     {
       "name": "otto",
@@ -5140,6 +6524,48 @@
       "updated": "2026-02-12"
     },
     {
+      "name": "pharah",
+      "display_name": "Overwatch - Pharah",
+      "version": "1.0.0",
+      "description": "Pharah voice lines from Overwatch -- the aerial rocket warrior and protector of the skies",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 414912,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "pharah",
+      "manifest_sha256": "7019d72167dc07676c4ba1e81458b056a6412ae8754c27326a528058f24608df",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
       "name": "philip",
       "display_name": "King Philip (Stronghold Crusader)",
       "version": "1.2.1",
@@ -5218,6 +6644,87 @@
       ],
       "added": "2026-03-01",
       "updated": "2026-03-03"
+    },
+    {
+      "name": "pokemon-gen1",
+      "display_name": "Pokemon Gen 1",
+      "version": "1.0.0",
+      "description": "Cries of the original 151 Pokemon from Generation 1",
+      "author": {
+        "name": "devauxbr",
+        "github": "devauxbr"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 151,
+      "total_size_bytes": 2057299,
+      "source_repo": "devauxbr/pokemon-gen1",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "12674b3d8cee14ab517674327672539b1d42cfe3689e8d71e6bb06388b97f60f",
+      "tags": [
+        "gaming",
+        "pokemon",
+        "nintendo",
+        "gen1"
+      ],
+      "preview_sounds": [
+        "pikachu.ogg",
+        "charizard.ogg"
+      ],
+      "added": "2026-03-25",
+      "updated": "2026-03-25"
+    },
+    {
+      "name": "posh-gent",
+      "display_name": "Posh Gentleman",
+      "version": "1.0.0",
+      "description": "A posh gentleman for your refined peon experience",
+      "author": {
+        "name": "13zebras",
+        "github": "13zebras"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 19,
+      "total_size_bytes": 1217952,
+      "source_repo": "13zebras/openpeon-posh-gent",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "4ea23ceebd76e98026c184e60fd76e804e9197ec5d30d5a1f41119e8a6cf2c94",
+      "tags": [
+        "posh",
+        "gentleman"
+      ],
+      "preview_sounds": [
+        "pleaseComeHitherEdward.mp3",
+        "spotOfBotherEdward.mp3"
+      ],
+      "added": "2026-03-26",
+      "updated": "2026-03-26"
     },
     {
       "name": "postal2_pl",
@@ -5683,6 +7190,48 @@
       "updated": "2026-02-12"
     },
     {
+      "name": "ramattra",
+      "display_name": "Overwatch - Ramattra",
+      "version": "1.0.0",
+      "description": "Ramattra voice lines from Overwatch -- the militant omnic leader",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 764160,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "ramattra",
+      "manifest_sha256": "6e49d3ee2f57917e80dbc68150d55bbd9463abe5af1964c40751424d3adf1cf5",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
       "name": "rat",
       "display_name": "The Rat (Stronghold Crusader)",
       "version": "1.2.1",
@@ -5721,6 +7270,48 @@
       ],
       "added": "2026-03-01",
       "updated": "2026-03-03"
+    },
+    {
+      "name": "reaper",
+      "display_name": "Overwatch - Reaper",
+      "version": "1.0.0",
+      "description": "Reaper voice lines from Overwatch -- the ghostly mercenary who feeds on death",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 698112,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "reaper",
+      "manifest_sha256": "8ad9b09b24c5c94375938280da749c2b9f4f3c8c6d306aeacb1f716591dc0200",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
     },
     {
       "name": "red-alert-1-eva",
@@ -5764,6 +7355,48 @@
       ],
       "added": "2026-03-05",
       "updated": "2026-03-09"
+    },
+    {
+      "name": "reinhardt",
+      "display_name": "Overwatch - Reinhardt",
+      "version": "1.0.0",
+      "description": "Reinhardt voice lines from Overwatch -- the crusading knight in shining armor",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 687552,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "reinhardt",
+      "manifest_sha256": "8888bc461288e595590f01e83a9085471720c7a9b666559db2cf261680a659df",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
     },
     {
       "name": "richard",
@@ -5925,6 +7558,48 @@
       ],
       "added": "2026-03-06",
       "updated": "2026-03-06"
+    },
+    {
+      "name": "roadhog",
+      "display_name": "Overwatch - Roadhog",
+      "version": "1.0.0",
+      "description": "Roadhog voice lines from Overwatch -- the one-man apocalypse",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 533184,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "roadhog",
+      "manifest_sha256": "c00253dfacccfb4ae349a4e87e4bf7567f2465223788de178a668a7506c6b37c",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
     },
     {
       "name": "saladin",
@@ -6184,6 +7859,47 @@
       ],
       "added": "2026-02-20",
       "updated": "2026-02-20"
+    },
+    {
+      "name": "sc2_scv_kr",
+      "display_name": "건설로봇 SCV (StarCraft II, 한국어)",
+      "version": "1.0.0",
+      "description": "테란 건설로봇(SCV) 한국어 음성 — StarCraft II Korean voice lines",
+      "author": {
+        "name": "heecheonkim",
+        "github": "hekkim"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "user.spam"
+      ],
+      "language": "ko",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 28,
+      "total_size_bytes": 4812612,
+      "source_repo": "hekkim/openpeon-sc2-scv-kr",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "1ec56360be28ad8883ca6cb01ff29577bbf296903208f9ac1efcb53a8160c5b9",
+      "tags": [
+        "gaming",
+        "starcraft",
+        "blizzard",
+        "korean",
+        "terran"
+      ],
+      "preview_sounds": [
+        "SCVReady1_KR.wav",
+        "SCVYes1_KR.wav"
+      ],
+      "added": "2026-03-29",
+      "updated": "2026-03-29"
     },
     {
       "name": "sc2_stalker",
@@ -7016,6 +8732,48 @@
       "updated": "2026-03-03"
     },
     {
+      "name": "sigma",
+      "display_name": "Overwatch - Sigma",
+      "version": "1.0.0",
+      "description": "Sigma voice lines from Overwatch -- the eccentric astrophysicist who harnesses gravity",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 737280,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "sigma",
+      "manifest_sha256": "394b51d5a7027f1ee7e4137226351c68f50056febbe6d10116354b9f447b605b",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
       "name": "silicon_valley",
       "display_name": "Silicon Valley",
       "version": "2.2.0",
@@ -7141,6 +8899,90 @@
       "updated": "2026-03-03"
     },
     {
+      "name": "sojourn",
+      "display_name": "Overwatch - Sojourn",
+      "version": "1.0.0",
+      "description": "Sojourn voice lines from Overwatch -- the cybernetically enhanced captain and railgun sharpshooter",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 508800,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "sojourn",
+      "manifest_sha256": "0570bdd3ff46868d9a77eef2091c3b024f1fb0ee8918768c7f45057387cc45f7",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
+      "name": "soldier_76",
+      "display_name": "Overwatch - Soldier: 76",
+      "version": "1.0.0",
+      "description": "Soldier: 76 voice lines from Overwatch -- the vigilante veteran fighting his own war",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 701376,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "soldier_76",
+      "manifest_sha256": "723d08d6b010cedec8cc4bd63cda96587cde50ef90c35904576262e13edf781f",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
       "name": "solid_snake",
       "display_name": "Solid Snake",
       "version": "1.0.0",
@@ -7190,6 +9032,48 @@
       ],
       "added": "2026-02-13",
       "updated": "2026-02-13"
+    },
+    {
+      "name": "sombra",
+      "display_name": "Overwatch - Sombra",
+      "version": "1.0.0",
+      "description": "Sombra voice lines from Overwatch -- the stealthy hacker who knows everyone's secrets",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 479808,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "sombra",
+      "manifest_sha256": "87243f5d9e85d6eb75515adc421dfd041d79b589310d230ef0cd7156b64d1529",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
     },
     {
       "name": "sopranos",
@@ -7400,6 +9284,44 @@
       ],
       "added": "2026-02-13",
       "updated": "2026-02-13"
+    },
+    {
+      "name": "stalker_ua",
+      "display_name": "S.T.A.L.K.E.R. (Ukrainian)",
+      "version": "1.0.0",
+      "description": "Ukrainian voice lines from the S.T.A.L.K.E.R. series",
+      "author": {
+        "name": "Andrii Myronenko",
+        "github": "andrii-myronenko"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error"
+      ],
+      "language": "uk",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 19,
+      "total_size_bytes": 651143,
+      "source_repo": "andrii-myronenko/openpeon-stalker-ua-pack",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "a6707edaf4c9b9dc37dbdb33eb3074d938d0e935978e3ca2c09cbf52278c497b",
+      "tags": [
+        "gaming",
+        "stalker",
+        "ukrainian"
+      ],
+      "preview_sounds": [
+        "barman_hello_1.ogg",
+        "bandit_help_2.ogg"
+      ],
+      "added": "2026-03-28",
+      "updated": "2026-03-28"
     },
     {
       "name": "starrail-kafka-peon-pack",
@@ -7692,6 +9614,89 @@
       ],
       "added": "2026-02-25",
       "updated": "2026-02-25"
+    },
+    {
+      "name": "symmetra",
+      "display_name": "Overwatch - Symmetra",
+      "version": "1.0.0",
+      "description": "Symmetra voice lines from Overwatch -- the light-bending architech who imposes order on chaos",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 510912,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "symmetra",
+      "manifest_sha256": "cc2b106082d1826fd695f788e3091129424c2762ebe7492283104b2dfe57e4cc",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
+      "name": "teemo-kr",
+      "display_name": "티모 (한국어)",
+      "version": "1.0.1",
+      "description": "리그 오브 레전드 2024 ASU 티모 한국어 음성팩. 밴들시티 정찰대장 티모 출동!",
+      "author": {
+        "name": "hphannah",
+        "github": "hphannah"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit",
+        "user.spam"
+      ],
+      "language": "ko",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 14,
+      "total_size_bytes": 638352,
+      "source_repo": "hphannah/peon-ping-teemo-ko",
+      "source_ref": "v1.0.1",
+      "source_path": ".",
+      "manifest_sha256": "45fe75ae8314d4b67cda7508d6b76fd046bd1b010f52ce04e96d9225e3c88fb1",
+      "tags": [
+        "league-of-legends",
+        "teemo",
+        "korean",
+        "gaming",
+        "lol"
+      ],
+      "preview_sounds": [
+        "ready-to-launch.mp3",
+        "yes-sir.mp3"
+      ],
+      "added": "2026-03-23",
+      "updated": "2026-03-23"
     },
     {
       "name": "tekken3_announcer",
@@ -8144,6 +10149,48 @@
       "updated": "2026-03-09"
     },
     {
+      "name": "torbjorn",
+      "display_name": "Overwatch - Torbjorn",
+      "version": "1.0.0",
+      "description": "Torbjorn voice lines from Overwatch -- the ingenious Swedish engineer and weapons designer",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 755520,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "torbjorn",
+      "manifest_sha256": "c9de384e30811b35b21fede053a26cf08347693aeaa7e344f781dba63cca51b8",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
       "name": "totally-spies-fr",
       "display_name": "Totally spies (FR)",
       "version": "1.0.1",
@@ -8179,6 +10226,48 @@
       ],
       "added": "2026-02-18",
       "updated": "2026-02-18"
+    },
+    {
+      "name": "tracer",
+      "display_name": "Overwatch - Tracer",
+      "version": "1.0.0",
+      "description": "Tracer voice lines from Overwatch -- the time-jumping adventurer and face of Overwatch",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 433152,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "tracer",
+      "manifest_sha256": "0c10dfbd202f313f7f471e869467db9c211eafe83cbfae9ec215b1b31da4b96c",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
     },
     {
       "name": "tropic-thunder",
@@ -8259,6 +10348,90 @@
       ],
       "added": "2026-03-12",
       "updated": "2026-03-12"
+    },
+    {
+      "name": "vendetta",
+      "display_name": "Overwatch - Vendetta",
+      "version": "1.0.0",
+      "description": "Vendetta voice lines from Overwatch -- the shadowy damage dealer",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 555840,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "vendetta",
+      "manifest_sha256": "492b21a4f469b2fc99d7e8bf29c24f907fd38732b3b99621714a6e996b5c03c0",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
+      "name": "venture",
+      "display_name": "Overwatch - Venture",
+      "version": "1.0.0",
+      "description": "Venture voice lines from Overwatch -- the adventurous archaeologist who burrows through the earth",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 406080,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "venture",
+      "manifest_sha256": "304abb855737a99ccc4ea007687594020b00df85163fe7d290862c107aaed27e",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
     },
     {
       "name": "warcraft-peon",
@@ -8873,6 +11046,90 @@
       "updated": "2026-02-14"
     },
     {
+      "name": "widowmaker",
+      "display_name": "Overwatch - Widowmaker",
+      "version": "1.0.0",
+      "description": "Widowmaker voice lines from Overwatch -- the cold-blooded assassin who feels nothing",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 501120,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "widowmaker",
+      "manifest_sha256": "c4e3e146a3f7d577a698f1994a687a3165bb66cdb6321db60bd118f2da1cd68e",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
+      "name": "winston",
+      "display_name": "Overwatch - Winston",
+      "version": "1.0.0",
+      "description": "Winston voice lines from Overwatch -- the brilliant scientist gorilla",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 46,
+      "total_size_bytes": 575808,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "winston",
+      "manifest_sha256": "be73f07a6e89eba35f1496c81beaf909617e84a2f76226b2d830955895cd6c6f",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
       "name": "wolf",
       "display_name": "The Wolf (Stronghold Crusader)",
       "version": "1.2.1",
@@ -9033,6 +11290,48 @@
       "updated": "2026-03-06"
     },
     {
+      "name": "wrecking_ball",
+      "display_name": "Wrecking Ball (Overwatch)",
+      "version": "1.0.0",
+      "description": "Hammond / Wrecking Ball voice lines from Overwatch — the champion hamster pilot",
+      "author": {
+        "name": "wahidfaird",
+        "github": "wahidfaird"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 38,
+      "total_size_bytes": 1663607,
+      "source_repo": "wahidfarid/peon-ping-wrecking-ball",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "369bab8ec404bb2c4fe76e80e062300eb69e86657a94c4887cad8899517e7c36",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "mech",
+        "hamster"
+      ],
+      "preview_sounds": [
+        "sounds/weapons_operational_grapple_primed_hamster_pumped.ogg",
+        "sounds/the_hamster_summons_you.ogg",
+        "sounds/system_malfunction.ogg"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
       "name": "yasuo-pack",
       "display_name": "Yasuo(亚索)",
       "version": "1.1.0",
@@ -9073,6 +11372,48 @@
       "updated": "2026-03-11"
     },
     {
+      "name": "zarya",
+      "display_name": "Overwatch - Zarya",
+      "version": "1.0.0",
+      "description": "Zarya voice lines from Overwatch -- the strongest woman in the world",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 445440,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "zarya",
+      "manifest_sha256": "83a1acbc516e90a1f1b991db88cc181a0a6a4fda2b50658f5df7cea71e391fe2",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
+    },
+    {
       "name": "zelda-a-link-to-the-past",
       "display_name": "Zelda: A Link to the Past Sound Pack",
       "version": "1.0.0",
@@ -9111,6 +11452,48 @@
       ],
       "added": "2026-02-20",
       "updated": "2026-02-20"
+    },
+    {
+      "name": "zenyatta",
+      "display_name": "Overwatch - Zenyatta",
+      "version": "1.0.0",
+      "description": "Zenyatta voice lines from Overwatch -- the omnic monk who seeks enlightenment through conflict",
+      "author": {
+        "name": "heron--",
+        "github": "heron--"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 45,
+      "total_size_bytes": 659520,
+      "source_repo": "heron--/overwatch-peon-pings",
+      "source_ref": "v1.0.0",
+      "source_path": "zenyatta",
+      "manifest_sha256": "824ee09c892878562ed1ba20b61bfd1dd67ee01494abd9d8d2bc1573792e147c",
+      "tags": [
+        "gaming",
+        "overwatch",
+        "blizzard",
+        "fps"
+      ],
+      "preview_sounds": [
+        "session_start_1.mp3",
+        "task_complete_1.mp3"
+      ],
+      "added": "2026-03-24",
+      "updated": "2026-03-24"
     },
     {
       "name": "zoolander_derek",
@@ -9198,5 +11581,5 @@
       "updated": "2026-02-25"
     }
   ],
-  "total_packs": 173
+  "total_packs": 287
 }
